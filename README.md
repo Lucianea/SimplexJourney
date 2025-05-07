@@ -7,7 +7,7 @@ Sistema de aplicativos para ensino aprendizagem de conceitos da programação li
 
 -   **Glossário de Termos Técnicos:** Um aplicativo que ajuda os usuários a entenderem os termos técnicos relacionados à programação linear por meio de exercícios interativos, Figura \ref{fig-app-teste}. Acesso em [Teste de Termos Técnicos](https://lucianefalcoforado.shinyapps.io/Teste_Termos/). O Apêndice A apresenta os glossário de termos técnicos utilizado no aplicativo e o Apêndice E contém o código-fonte do aplicativo.
 
-![Página inicial do Aplicativo de Termos Técnicos.](images/App_TesteTermos.png){#fig-app-teste fig-align="center" width="13cm"}
+![Página inicial do Aplicativo de Termos Técnicos.](App_TesteTermos.png){#fig-app-teste fig-align="center" width="13cm"}
 
 -   **Método da Solução Gráfica:** Um aplicativo que permite aos usuários visualizarem a representação gráfica de restrições, vetor gradiente, curvas de nível, região viável e solução ótima, Figura \ref{fig-app-graficos}. Acesso em [Método da Solução Gráfica](https://lucianefalcoforado.shinyapps.io/SimplexJourney-Grafico/). Os apêndices B e F apresentam o manual de uso e o código-fonte deste aplicativo.
 
