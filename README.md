@@ -11,13 +11,13 @@ Sistema de aplicativos para ensino aprendizagem de conceitos da programação li
 
 -   **Método da Solução Gráfica:** Um aplicativo que permite aos usuários visualizarem a representação gráfica de restrições, vetor gradiente, curvas de nível, região viável e solução ótima, Figura \ref{fig-app-graficos}. Acesso em [Método da Solução Gráfica](https://lucianefalcoforado.shinyapps.io/SimplexJourney-Grafico/). Os apêndices B e F apresentam o manual de uso e o código-fonte deste aplicativo.
 
-![Página inicial do Aplicativo para Método da Solução Gráfica.](images/App_graficos.png){#fig-app-graficos fig-align="center" width="13cm"}
+![Página inicial do Aplicativo para Método da Solução Gráfica.](App_graficos.png){#fig-app-graficos fig-align="center" width="13cm"}
 
 -   **Formulação do Modelo:** Um aplicativo que foca na estruturação do modelo de programação linear, apresentando a forma padrão e os elementos matriciais envolvidos, Figura \ref{fig-app-formas}. Acesso em [Formulação do Modelo](https://lucianefalcoforado.shinyapps.io/Simplex_Formas/). Os apêndices C e G apresentam o manual de uso e o código-fonte deste aplicativo.
 
-![Página inicial do Aplicativo sobre Forma Padrão e Forma Matricial.](images/App_formas.png){#fig-app-formas fig-align="center" width="10cm"}
+![Página inicial do Aplicativo sobre Forma Padrão e Forma Matricial.](App_formas.png){#fig-app-formas fig-align="center" width="10cm"}
 
 -   **Método Simplex Revisado:** Um aplicativo que auxilia nas iterações do método Simplex, permitindo a montagem e manipulação dos elementos matriciais, Figura \ref{fig-app-iteracoes}. Acesso em [Método Simplex Revisado](https://lucianefalcoforado.shinyapps.io/Simplex_iteracoes/). Os apêndices D e H apresentam o manual de uso e o código-fonte das duas versões deste aplicativo.
 
-![Página inicial do Aplicativo Iterações.](images/App_iteracoes.png){#fig-app-iteracoes fig-align="center" width="15cm"}
+![Página inicial do Aplicativo Iterações.](App_iteracoes.png){#fig-app-iteracoes fig-align="center" width="15cm"}
 
