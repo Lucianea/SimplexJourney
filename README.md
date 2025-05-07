@@ -1,7 +1,7 @@
 # SimplexJourney
 ## Autoria de Luciane Alcoforado - AFA
 
-Sistema de aplicativos para ensino aprendizagem de conceitos da programação linear e do algoritmo simplex. Projeto Portaria AFA n. 87/CPPC desenvolvido nos anos de 2023 a 2025.
+Sistema de aplicativos para ensino aprendizagem de conceitos da programação linear e do algoritmo simplex. Projeto Portaria AFA n. 87/SPPC desenvolvido nos anos de 2023 a 2025.
 
 # Acesso aos aplicativos
 
