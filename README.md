@@ -11,7 +11,7 @@ Sistema de aplicativos para ensino aprendizagem de conceitos da programação li
 
 -   **Método da Solução Gráfica:** Um aplicativo que permite aos usuários visualizarem a representação gráfica de restrições, vetor gradiente, curvas de nível, região viável e solução ótima, Figura \ref{fig-app-graficos}. Acesso em [Método da Solução Gráfica](https://lucianefalcoforado.shinyapps.io/SimplexJourney-Grafico/). Os apêndices B e F apresentam o manual de uso e o código-fonte deste aplicativo.
 
-![Página inicial do Aplicativo para Método da Solução Gráfica.](App_graficos.png){#fig-app-graficos fig-align="center" width="13cm"}
+![Página inicial do Aplicativo para Método da Solução Gráfica.](App_graficos.png)
 
 -   **Formulação do Modelo:** Um aplicativo que foca na estruturação do modelo de programação linear, apresentando a forma padrão e os elementos matriciais envolvidos, Figura \ref{fig-app-formas}. Acesso em [Formulação do Modelo](https://lucianefalcoforado.shinyapps.io/Simplex_Formas/). Os apêndices C e G apresentam o manual de uso e o código-fonte deste aplicativo.
 
